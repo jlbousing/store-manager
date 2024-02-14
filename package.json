@@ -1,8 +1,8 @@
 {
   "name": "typescript-storage-manager-localstorage",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Typescript class to use localstorage with an easy way like Ionic do it",
-  "main": "index.ts",
+  "main": "dist/bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
