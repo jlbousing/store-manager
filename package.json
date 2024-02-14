@@ -1,0 +1,22 @@
+{
+  "name": "storage-manager",
+  "version": "1.0.0",
+  "description": "Typescript class to use localstorage with an easy way like Ionic do it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlbousing/store-manager.git"
+  },
+  "keywords": [
+    "localstorage"
+  ],
+  "author": "Jorge Luis Bou-saad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlbousing/store-manager/issues"
+  },
+  "homepage": "https://github.com/jlbousing/store-manager#readme"
+}
