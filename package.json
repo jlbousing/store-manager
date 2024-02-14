@@ -1,6 +1,6 @@
 {
   "name": "typescript-storage-manager-localstorage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript class to use localstorage with an easy way like Ionic do it",
   "main": "index.ts",
   "scripts": {
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/jlbousing/store-manager/issues"
   },
-  "homepage": "https://github.com/jlbousing/store-manager#readme"
+  "homepage": "https://github.com/jlbousing/store-manager#readme",
+  "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3",
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4"
+  }
 }
